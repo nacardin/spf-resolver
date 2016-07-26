@@ -1,0 +1,7 @@
+[package]
+name = "spf-resolver"
+version = "0.1.0"
+authors = ["Nick Cardin <nick@cardin.email>"]
+
+[dependencies]
+dns-parser = "0.3.5"
